@@ -1,0 +1,5 @@
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe.config
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb

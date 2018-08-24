@@ -1,0 +1,6 @@
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Grad93\Desktop\Day 1_c#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
